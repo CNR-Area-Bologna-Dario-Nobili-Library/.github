@@ -4,6 +4,23 @@ The "Dario Nobili" Library of the CNR Research Area of Bologna offers services t
 - RSCVD (Resource Sharing during COVID-19), born under the aegis of IFLA, is the first experience of free digital resource sharing worldwide.
 - NILDE (Network for Inter-Library Document Exchange) is currently used by over 850 libraries and 90,000 end users, with about 3 million document exchanges in 15 years.
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://area-new.bo.cnr.it/" target="_blank">
+          <img src="https://github.com/CNR-Area-Bologna-Dario-Nobili-Library/.github/blob/main/logo_CNRBO_affiancato.png" alt="Area Territoriale di Ricerca di Bologna" width="200"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="http://biblioteca.bo.cnr.it/index.php/en/" target="_blank">
+          <img src="https://github.com/CNR-Area-Bologna-Dario-Nobili-Library/.github/blob/main/Biblio-dario-nobili.png" alt="Biblioteca Dario Nobili" width="200"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!--
 
 **Here are some ideas to get you started:**
