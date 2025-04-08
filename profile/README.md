@@ -9,12 +9,12 @@ The "Dario Nobili" Library of the CNR Research Area of Bologna offers services t
     <tr>
       <td align="center">
         <a href="https://area-new.bo.cnr.it/" target="_blank">
-          <img src="https://github.com/CNR-Area-Bologna-Dario-Nobili-Library/.github/blob/main/logo_CNRBO_affiancato.png" alt="Area Territoriale di Ricerca di Bologna" width="200"/>
+          <img src="https://github.com/CNR-Area-Bologna-Dario-Nobili-Library/imgs/blob/main/logo_CNRBO_affiancato.png" alt="Area Territoriale di Ricerca di Bologna" width="200"/>
         </a>
       </td>
       <td align="center">
         <a href="http://biblioteca.bo.cnr.it/index.php/en/" target="_blank">
-          <img src="https://github.com/CNR-Area-Bologna-Dario-Nobili-Library/.github/blob/main/Biblio-dario-nobili.png" alt="Biblioteca Dario Nobili" width="140"/>
+          <img src="https://github.com/CNR-Area-Bologna-Dario-Nobili-Library/imgs/blob/main/Biblio-dario-nobili.png" alt="Biblioteca Dario Nobili" width="140"/>
         </a>
       </td>
     </tr>
